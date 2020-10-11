@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">GITHUB_DMOS5</string>
+    <string name="git">{git}</string>
+
+
+
+    <string name="nome">nome</string>
+    <string name="id">id</string>
+
+
 </resources>
