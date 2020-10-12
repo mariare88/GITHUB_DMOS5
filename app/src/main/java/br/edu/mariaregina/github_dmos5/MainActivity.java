@@ -11,7 +11,6 @@ import android.Manifest;
 import android.app.Activity;
 import android.content.DialogInterface;
 import android.content.pm.PackageManager;
-import android.net.DnsResolver;
 import android.os.Bundle;
 import android.telecom.Call;
 import android.view.View;
@@ -20,7 +19,6 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import RetrofitService.Builder;
 //import br.edu.mariaregina.github_dmos5.api.RetrofitService;
 import br.edu.mariaregina.github_dmos5.model.Git;
 
